@@ -1,0 +1,36 @@
+
+Developer’s OS:         Windows 10
+Development IDE:        Visual Studio 2015 (Pro & Enterprise versions)
+Visual Studio 2017 (Pro & Enterprise versions)
+                        Visual Studio Code
+                        (Expression Web 4 – No need to build (Compile) because of HTML based script)
+Types of Projects:      (Use Visual Basic and Visual C# for most of projects, except for .NET Core – Visual C# Only)
+(Template)              Windows
+ Windows Forms Application
+                 Console Application
+Class Library
+Web
+ASP.NET Web Application (.NET Framework)
+                        ASP.NET Core Web Application (.NET Core)
+                        ASP.NET Core Web Application (.NET Framework)
+                        .NET Core (Visual C# only)
+                                Class Library (.NET Core)
+                                Console Application (.NET Core)
+                        Test
+                                Unit Test Project
+                        WCF     
+                                WCF Service Library
+                                WCF Service Application
+                        SQL Server
+                                Database Project
+                        Integration Services Project
+                        Reporting Services Project
+                        
+                        Classic ASP.NET  (No need to build (Compile) because of script based language)
+Components (packages) Required (Use NuGet Manager to install)
+                        JavaScript
+                        jQuery
+                        Angular JS
+                        Bootstrap
+                        Json
+                        Entity Framework
